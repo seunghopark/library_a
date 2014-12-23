@@ -22,6 +22,7 @@ import com.handmark.pulltorefresh.library.internal.Assert;
  * {@code PullToRefreshNode} has an information in contents of pulltorefresh.xml, <br /> such as loading layout and indicator layout class name
  * @author Wonjun Kim
  *
+ * 하하하하하하하하
  */
 class PullToRefreshNode {
 	/**
